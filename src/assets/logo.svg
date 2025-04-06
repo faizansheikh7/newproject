@@ -1,0 +1,18 @@
+<svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- People Icon -->
+  <g stroke="black" stroke-width="2" fill="none">
+    <circle cx="50" cy="20" r="6"/>
+    <circle cx="90" cy="20" r="6"/>
+    <circle cx="70" cy="50" r="6"/>
+    <path d="M50 26 L40 50 L55 50 L60 30 M90 26 L100 50 L85 50 L80 30" />
+    <path d="M55 50 L65 70 L75 50" />
+    <path d="M85 50 L75 70 L65 50" />
+  </g>
+  
+  <!-- Bharosa Text -->
+  <text x="120" y="70" font-family="Times New Roman, serif" font-size="50" fill="black">BHAROSA</text>
+
+  <!-- India 2025 -->
+  <text x="50" y="90" font-family="Arial, sans-serif" font-size="14" fill="black">India</text>
+  <text x="55" y="105" font-family="Arial, sans-serif" font-size="14" fill="black">2025</text>
+</svg>
